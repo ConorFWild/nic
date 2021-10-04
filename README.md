@@ -3,6 +3,7 @@
 # setup enviroment
 
 git clone https://github.com/ConorFWild/nic.git
+
 cd nic
 
 conda create -n nic python=3.7
@@ -34,5 +35,9 @@ change the test_dir path to your path of intrest
 
 change the path of the model to load to where you have saved it
 
+
+# Run hidden markov model
+
+Use hidden_markob_model.ipynb
 
 
